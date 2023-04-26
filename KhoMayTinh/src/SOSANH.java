@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class SOSANH extends KhoLapTop{
+public class SOSANH{
     public static int SoSanhNgay(int NGAY){
         Scanner s = new Scanner(System.in);
         if(NGAY > 31 || NGAY < 0){
